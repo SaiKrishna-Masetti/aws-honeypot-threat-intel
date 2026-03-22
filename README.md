@@ -162,5 +162,5 @@ Everything else (`json`, `collections`, `datetime`, `pathlib`, `hashlib`, etc.) 
 ## Author
 
 **Sai Krishna Masetti**
-- [LinkedIn](https://linkedin.com/in/saikrishnamasetti)
-- [Portfolio](https://saikrishnamasetti.github.io)
+- [LinkedIn](https://www.linkedin.com/in/sai-krishna-masetti)
+- [Portfolio](https://saikrishna-masetti.github.io/)
